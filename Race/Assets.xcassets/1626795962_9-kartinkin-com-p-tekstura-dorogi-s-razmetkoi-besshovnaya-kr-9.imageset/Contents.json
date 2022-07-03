@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1626795962_9-kartinkin-com-p-tekstura-dorogi-s-razmetkoi-besshovnaya-kr-9.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
